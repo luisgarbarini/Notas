@@ -20,4 +20,3 @@ Al momento de compilar la aplicación, lo que hace el *SDK* de *Flutter* es conv
 
 El principal beneficio que se obtiene de esto, es que es posible crear código altamente optimizado y de alto rendimiento para ambos ambientes utilizando solo un lenguaje de programación, sin embargo, la traducción realizada por el *SDK* no se limita a los componentes nativos de ambas plataformas. *Flutter* posee una implementación personalizada, lo que significa que puede controlar cada pixel en pantalla, otorgándolo mucho control sobre los elementos y un alto grado de flexibilidad.
 
-## 3. Elementos
